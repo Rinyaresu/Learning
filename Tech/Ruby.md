@@ -23,7 +23,7 @@ Ruby está posicionado entre no top 10 da maioria dos índices que medem o cresc
 
 O Ruby também é [totalmente livre](https://www.ruby-lang.org/en/about/license.txt). Não somente livre de custos, mas também livre para utilizar, copiar, modificar e distribuir.
 
-### Ver Tudo como um Objeto
+### Ver Tudo como um [[Objeto]]
 
 Inicialmente, Matz estudou outras linguagens em busca de encontrar uma sintaxe ideal. Recordando a sua busca, disse, “Eu queria uma linguagem interpretada que fosse mais poderosa do que Perl e mais orientada as objetos do que Python[2](https://www.ruby-lang.org/pt/about/#fn2).”
 
@@ -99,14 +99,31 @@ O Ruby é rico em outras características, entre as quais se destacam as seguint
 
 -   Capacidade de tratamento de exceções, tal como em Java ou Python, de forma a facilitar o tratamento de erros.
     
--   Um verdadeiro _garbage collector_ _mark-and-sweep_ para todos os objectos Ruby. Não é necessário manter contadores de referência em bibliotecas de extensão (_extension libraries_). Tal como Matz diz, “Isto é melhor para a sua saúde.”
+-   Um verdadeiro [[garbage collector]] _mark-and-sweep_ para todos os objectos Ruby. Não é necessário manter contadores de referência em bibliotecas de extensão (_extension libraries_). Tal como Matz diz, “Isto é melhor para a sua saúde.”
     
--   Escrever extensões C em Ruby é mais fácil do que em Perl ou Python, com uma API refinada para chamar Ruby a partir do código C. Isto inclui chamadas para embutir Ruby em software externo, para utilizá-lo como uma linguagem interpretada dentro do software. Uma interface SWIG também se encontra disponível.
+-   Escrever extensões C em Ruby é mais fácil do que em Perl ou Python, com uma [[API]] refinada para chamar Ruby a partir do código C. Isto inclui chamadas para embutir Ruby em software externo, para utilizá-lo como uma linguagem interpretada dentro do software. Uma interface SWIG também se encontra disponível.
     
 -   O Ruby pode carregar bibliotecas de extensão (_extension libraries_) dinamicamente se o Sistema Operacional permitir.
     
--   O Ruby tem um sistema de _threading_ independente do Sistema Operacional. Portanto, para todas as plataformas nas quais o Ruby roda, temos _multithreading_ independentemente de o Sistema Operacional suportar ou não, temos _multithreading_ até em MS-DOS!
+-   O Ruby tem um sistema de [[threading]] independente do Sistema Operacional. Portanto, para todas as plataformas nas quais o Ruby roda, temos [[multithreading]] independentemente de o Sistema Operacional suportar ou não, temos [[multithreading]] até em MS-DOS!
     
 -   O Ruby é altamente portável: é desenvolvido principalmente em ambiente GNU/Linux, mas trabalha em muitos tipos de ambientes UNIX, macOS, Windows, DOS, BeOS, OS/2, etc.
 
 [source](https://www.ruby-lang.org/pt/about/)
+
+
+## Tipos de dados
+
+Não existem "tipos primitivos" em Ruby; todos os tipos são [classes](https://pt.wikipedia.org/wiki/Classe_(programa%C3%A7%C3%A3o) "Classe (programação)"):
+
+-   **Object** é a classe mãe de todas as outras classes em Ruby
+    -   **Numeric** é uma classe abstrata que representa números
+        -   **Integer** é uma classe que representa números inteiros
+            -   **Fixnum** representa números inteiros de precisão fixa
+            -   **Bignum** representa números inteiros de precisão infinita, dependente apenas da memória disponível
+        -   **Float** é uma classe que representa números de ponto flutuante (números reais)
+    -   **String** uma cadeia de caracteres. Pode ser delimitado por apóstrofes (') ou aspas ("). Tudo o que há entre apóstrofes é interpretado literalmente, entre aspas o programador deve se utilizar de símbolos para representar caracteres específicos, como em C. Exemplos: 'azul', "a\nb\nc"
+    -   **Symbol** é semelhante a uma string, mas dois símbolos iguais possuem o mesmo endereço de memória, sendo assim é ótimo para se utilizar como índice numa Hash. Porém, devido à sua natureza, o [[garbage collector]] do Ruby não os elimina. É definido com um sinal de dois pontos (:), por exemplo, :nome
+    -   **Array** são [[arrays]] dinâmicos, que podem ser usados para representar matrizes e vetores. É delimitado por colchetes ([]) e cada valor é separado por vírgula. Exemplo: [4, 'azul', :termometro]
+		-   **Hash** representa um [[vetor associativo]](, e, assim como as Arrays, é dinâmica. É delimitada por chaves ({}), e o índice precede o valor com um sinal '=>'. Exemplo: {:controller => 'user', :action => 'index'}. Qualquer objeto pode ser um índice, mas os mais usados são as Strings e os Symbols
+    -   **Regexp** representa [[expressões regulares]], delimitadas por //. Funciona de forma semelhante a Perl. Exemplo: /a|ae/

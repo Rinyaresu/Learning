@@ -7,25 +7,9 @@
         "id": "26dbf3df5fe6b6d3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tech/Ruby on Rails.md",
-            "mode": "source"
-          }
-        },
-        "group": "d4df14b6e89b118f"
-      },
-      {
-        "id": "5a3006c1a691fd4c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tech/Ruby on Rails.md",
-            "mode": "preview"
-          }
-        },
-        "group": "d4df14b6e89b118f"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393,
-    "collapsed": true
+    "width": 393
   },
   "right": {
     "id": "becc655c9167d8ee",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Ruby on Rails.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +112,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tech/Ruby on Rails.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +163,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4084433249421986,
+                  "scale": 0.2854858083337809,
                   "close": true
                 }
               }
@@ -192,20 +173,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283,
-    "collapsed": true
+    "width": 283
   },
   "active": "26dbf3df5fe6b6d3",
   "lastOpenFiles": [
+    "Tech/Concepts/Concepts.md",
+    "Tech/Untitled.md",
+    "Tech/Concepts/CoC.md",
     "Tech/Ruby on Rails.md",
     "Tech/Ruby.md",
-    "TIL/Rails/how-to-create-a-rake-task-to-setup-your-development-environment.md",
-    "TIL/Rails/how-to-create-a-select-box.md",
-    "TIL/Rails/how-to-test-rails-applications.md",
-    "TIL/Rails/how-to-use-css-in-link_to-helper.md",
-    "TIL/Rails/how-to-use-I18n.md",
-    "TIL/Rails/how-to-validate-your-application.md",
-    "TIL/Rails/render-another-page-to-not-pollute-application.html.erb.md",
-    "TIL/Rails/transition-users-who-are-not-logged-in-to-the-login-page.md"
+    "Tech/Linux.md",
+    "Tech/Concepts/DRY.md",
+    "2022-05-18.md",
+    "Tech/Concepts/C.md",
+    "TIL/Linux/how-to-write-a-shell-script.md"
   ]
 }

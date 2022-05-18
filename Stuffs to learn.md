@@ -6,4 +6,4 @@
 
 [[Linux]]
 
-[[SQL]]
+[[Banco de dados]]

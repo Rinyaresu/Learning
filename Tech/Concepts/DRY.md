@@ -14,4 +14,4 @@ O código duplicado cria os seguintes problemas:
     
 -   Requer o gerenciamento de memória e ciclos de runtime para processar blocos de códigos idênticos; _(impacta o desempenho da aplicação)_
 
-Esta expressão foi cunhada por [[Andy Hunt]] e [[Dave Thomas]]  em seu livro [[The Pragmatic Programmer]] Ele se aplica amplamente, incluindo [esquema de banco de dados](https://pt.wikipedia.org/wiki/Esquema_de_banco_de_dados), [plano de teste](https://en.wikipedia.org/wiki/Test_plan), [compilação](https://pt.wikipedia.org/wiki/Compilador) e mesmo [documentação de software](https://pt.wikipedia.org/wiki/Documenta%C3%A7%C3%A3o_de_software) .
+Esta expressão foi cunhada por [[Andy Hunt]] e [[Dave Thomas]]  em seu livro [[The Pragmatic Programmer]] Ele se aplica amplamente, incluindo [esquema de banco de dados](https://pt.wikipedia.org/wiki/Esquema_de_banco_de_dados), [plano de teste](https://en.wikipedia.org/wiki/Test_plan), [[Compilador]] e mesmo [documentação de software](https://pt.wikipedia.org/wiki/Documenta%C3%A7%C3%A3o_de_software) .

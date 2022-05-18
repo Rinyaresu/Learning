@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "371376fe81342ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "26dbf3df5fe6b6d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tech/Ruby on Rails.md",
+            "mode": "source"
+          }
+        },
+        "group": "d4df14b6e89b118f"
+      },
+      {
+        "id": "5a3006c1a691fd4c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tech/Ruby on Rails.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d4df14b6e89b118f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12df2b227f415bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b0163ab009b092",
+        "type": "tabs",
+        "dimension": 28.723404255319153,
+        "children": [
+          {
+            "id": "122564ce2b4278b1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "37308afeac9f0408",
+        "type": "tabs",
+        "dimension": 71.27659574468085,
+        "children": [
+          {
+            "id": "2d97d86732688cbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc1215681023711d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393,
+    "collapsed": true
+  },
+  "right": {
+    "id": "becc655c9167d8ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "d184510f2d7011ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "350bd4e525c21961",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/Ruby on Rails.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2ebbc619450c5d68",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "aed817340509b3bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b62a3a84c39e1c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Tech/Ruby on Rails.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:TIL/Rails",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "path:TIL/Linux",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "file:Stuff",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5412832
+                      }
+                    },
+                    {
+                      "query": "path:TIL/Ruby",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4084433249421986,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283,
+    "collapsed": true
+  },
+  "active": "26dbf3df5fe6b6d3",
+  "lastOpenFiles": [
+    "Tech/Ruby on Rails.md",
+    "Tech/Ruby.md",
+    "TIL/Rails/how-to-create-a-rake-task-to-setup-your-development-environment.md",
+    "TIL/Rails/how-to-create-a-select-box.md",
+    "TIL/Rails/how-to-test-rails-applications.md",
+    "TIL/Rails/how-to-use-css-in-link_to-helper.md",
+    "TIL/Rails/how-to-use-I18n.md",
+    "TIL/Rails/how-to-validate-your-application.md",
+    "TIL/Rails/render-another-page-to-not-pollute-application.html.erb.md",
+    "TIL/Rails/transition-users-who-are-not-logged-in-to-the-login-page.md"
+  ]
+}

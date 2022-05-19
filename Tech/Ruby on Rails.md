@@ -1,7 +1,7 @@
 # Rails
 ### [1. O que é o Rails?](https://guiarails.com.br/getting_started.html#o-que-e-o-rails-questionmark)
 
-**Ruby on Rails** é um [[framework livre]] que promete aumentar velocidade e facilidade no desenvolvimento de sites orientados a banco de dados (_database-driven web sites_), uma vez que é possível criar aplicações com base em estruturas pré-definidas. Frequentemente referenciado como **Rails** ou **RoR**, o Ruby on Rails é um projeto de código aberto escrito na linguagem de programação [[Ruby]] As aplicações criadas utilizando o framework Rails são desenvolvidas com base no padrão de arquitetura [[MVC]] (_Model_-_View_-_Controller_)
+**Ruby on Rails** é um [[framework]] livre que promete aumentar velocidade e facilidade no desenvolvimento de sites orientados a banco de dados (_database-driven web sites_), uma vez que é possível criar aplicações com base em estruturas pré-definidas. Frequentemente referenciado como **Rails** ou **RoR**, o Ruby on Rails é um projeto de código aberto escrito na linguagem de programação [[Ruby]] As aplicações criadas utilizando o framework Rails são desenvolvidas com base no padrão de arquitetura [[MVC]] (_Model_-_View_-_Controller_)
 
 ---
 

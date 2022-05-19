@@ -33,5 +33,3 @@ Este código criará um novo objeto do tipo `Produto` baseado no primeiro regi
 ```sql
 SELECT * FROM produtos WHERE nome = 'televisor' LIMIT 1; -- MySQL ou PostgreSQL
 ```
-
-

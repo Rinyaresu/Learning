@@ -34,7 +34,6 @@ Provê uma maneira de publicar [[API]] interoperaveis com o Rails, sem a necessi
 O Action Web Service não estará mais presente na versão 2.0 no Rails, visto que o mesmo está voltando-se para a utilização do modelo [[REST]]. Mesmo assim, aos ainda interessados em utilizá-lo, será possível fazê-lo através da instalação de um [[plugin]].
 
 ---
-[[Concepts]]
 Rails é um software opinativo. Assumindo que há uma "melhor" maneira para fazer as coisas, e foi projetado para encorajar essa maneira - e, em alguns casos para desencorajar alternativas. Se você aprender o "Rails Way", provavelmente terá um grande aumento de produtividade. Se você insistir nos velhos hábitos de outras linguagens, tentando usar os padrões que você aprendeu em outro lugar, você pode ter uma experiência menos feliz.
 
 A filosofia do Rails possui dois princípios fundamentais:

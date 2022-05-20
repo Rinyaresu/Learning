@@ -13,5 +13,5 @@
 
 ![Figura](https://catalogcdns3.ulife.com.br/content-cli/ENG_BANDAD_20/unidade_1/ebook/images/figura.1.2-01.png)
 
- ## SQL
+## SQL
 Todos os envolvidos citados anteriormente precisarão lidar direta ou indiretamente, em algum grau, com uma linguagem específica para o trato com Banco de Dados, a comumente denominada [[SQL]]. [[SQL]] é um acrônimo de _Structured Query Language_ que, em português, refere-se à linguagem de consulta estruturada, mas que, na comunidade de banco de dados, tratamos simplesmente como SQL. Essa linguagem apresenta um conjunto de comandos com suas respectivas sintaxes para que operações sejam disparadas para o servidor de banco de dados. O [[SGBD]], enquanto um servidor para processar as consultas do seu requisitante, interpreta a consulta e dispara internamente as ações no banco de dados.

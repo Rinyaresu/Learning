@@ -23,7 +23,7 @@ Ruby está posicionado entre no top 10 da maioria dos índices que medem o cresc
 
 O Ruby também é [totalmente livre](https://www.ruby-lang.org/en/about/license.txt). Não somente livre de custos, mas também livre para utilizar, copiar, modificar e distribuir.
 
-### Ver Tudo como um [[Objeto]]
+### Ver Tudo como um [[Objetos]]
 
 Inicialmente, Matz estudou outras linguagens em busca de encontrar uma sintaxe ideal. Recordando a sua busca, disse, “Eu queria uma linguagem interpretada que fosse mais poderosa do que Perl e mais orientada as objetos do que Python[2](https://www.ruby-lang.org/pt/about/#fn2).”
 

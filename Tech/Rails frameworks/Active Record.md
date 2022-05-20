@@ -8,7 +8,7 @@ Este padrão é comumente utilizado por ferramentas de persistência de objetos 
 
 ## Implementação
 
-Implementações do conceito podem ser encontradas em vários Frameworks para diversos ambientes de programação. Por exemplo, se um banco de dados possui a tabela `produtos` com as colunas `nome` (tipo string) e `valor` (tipo number) e o padrão de projeto Active Record é implementado na classe `Produto`, o pseudo-código:
+Implementações do conceito podem ser encontradas em vários [[framework]]s para diversos ambientes de programação. Por exemplo, se um banco de dados possui a tabela `produtos` com as colunas `nome` (tipo string) e `valor` (tipo number) e o padrão de projeto Active Record é implementado na classe `Produto`, o pseudo-código:
 
 ```ruby
 produto = new Produto()

@@ -3,7 +3,7 @@
 ## Oque é?
 
 Software livre, é software computacional distribuído entre os termos que permitem usuários a usar o software para qualquer proposito, como estudar e modificar através do [[código-fonte]].
-
+ga
 ## Vantagens? 
 
 ### Custo minimo

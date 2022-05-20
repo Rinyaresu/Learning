@@ -1,2 +1,2 @@
 # Learning
-PLS Use **Obsidian** to see links
+PLS Use [Obsidian](https://obsidian.md/) to see links

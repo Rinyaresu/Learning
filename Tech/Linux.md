@@ -1,5 +1,7 @@
 # Linux
 
+## O que é Linux?
+
 **Linux** é um termo popularmente empregado para se referir a [[sistemas operacionais]] que utilizam o [[Kernel Linux]] O núcleo ou [[kernel]], foi desenvolvido pelo programador finlandês [[Linus Torvalds]] inspirado no sistema Minix. O seu [[código-fonte]] está disponível sob a licença [[GPL]] (versão 2) para que qualquer pessoa o possa utilizar, estudar, modificar e distribuir livremente de acordo com os termos da licença. e seus colaboradores recomendaram o nome GNU/Linux_ para descrever o sistema operacional, como resultado de uma disputa controversa entre membros da comunidade de [[software livre]] e [[código-aberto]]
 
 Inicialmente desenvolvido e utilizado por grupos de entusiastas em computadores pessoais, os [[sistemas operacionais]] com núcleo Linux passaram a ter a colaboração de grandes empresas como [IBM]([Microsoft](https://pt.wikipedia.org/wiki/Microsoft "Microsoft"), [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems), [Hewlett-Packard](https://www.hp.com/us-en/home.html) (HP), [Red Hat](https://www.redhat.com/en), [Novell](https://en.wikipedia.org/wiki/Novell), [Oracle](https://www.oracle.com/sg/index.html), [Google](https://www.google.com/), [Mandriva](https://www.openmandriva.org/), [Microsoft](https://www.microsoft.com/pt-br/) e [Canonical](https://canonical.com/).

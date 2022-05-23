@@ -1,4 +1,6 @@
-#  CoC
+# CoC
+
+## O que é CoC
 
 **Convenção sobre configuração** ou **programação por convenção** (do inglês _Convention over configuration_ - CoC) é um modelo de [desenvolvimento de software](https://pt.wikipedia.org/wiki/Desenvolvimento_de_software) que busca diminuir o número de decisões que os [desenvolvedores](https://pt.wikipedia.org/wiki/Programador) precisam tomar. Visa ganhar simplicidade sem perder flexibilidade.
 

@@ -1,8 +1,12 @@
-# DML 
- Esse subconjunto essencial de comandos é denominado de [[DML]], do inglês Data Manipulation Language e, em português, linguagem de manipulação de dados. 
- DML é um subconjunto da linguagem SQL que é utilizado para realizar inclusões, consultas, alterações e exclusões de dados presentes em registros.
+# DML
+
+## O que é DML?
+
+Esse subconjunto essencial de comandos é denominado de [[DML]], do inglês Data Manipulation Language e, em português, linguagem de manipulação de dados.
+DML é um subconjunto da linguagem SQL que é utilizado para realizar inclusões, consultas, alterações e exclusões de dados presentes em registros.
 
 ## Comandos Básicos
+
 Os comandos básicos de DML são:
 
 - `INSERT`: é usada para inserir um registro
@@ -10,7 +14,8 @@ Os comandos básicos de DML são:
 - `DELETE`: remover linhas de uma tabela
 - `SELECT`: realizar consultas no banco
 
-## Exemplo de comandos 
+## Exemplo de comandos
+
 ```sql
 --- Comando para inserção de um novo registro ---
 INSERT INTO CLIENTES(CODIGO,NOME,CONTATO)

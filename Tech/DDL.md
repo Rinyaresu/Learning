@@ -7,6 +7,7 @@ DDL é o acrônimo de *Data Definiition Language* que, em português, significa 
 ## Comandos Básicos
 
 Os comandos básicos de DDL são:
+
 - `CREATE`: Cria uma tabela dentro do [[Banco de dados]]
 - `DROP`: Apaga um objeto do [[Banco de dados]]
 

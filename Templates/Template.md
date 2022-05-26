@@ -4,8 +4,5 @@
 
 
 
-==creation date: <% tp.file.creation_date() %>==
-
----
-
-Weather: <% tp.user.getWeather() %>
+==Date: <% tp.file.creation_date() %>
+Weather: <% tp.user.getWeather() %>==

@@ -1,6 +1,7 @@
 # Action Dispatch
 
 ## O que é Action Dispatch?
+
 Action Dispatch é uma pequena classe que é responsável por instanciar os [[controllers]]
 e passar nossa requisição, junto com os [[Objetos]] de resposta vazio. É invocado quando uma rota adequada é identificada para uma solicitação
 

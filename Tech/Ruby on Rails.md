@@ -18,7 +18,7 @@ O [[Active Record]] é uma camada de mapeamento objeto-relacional (_object-relat
 
 ## [[Action Pack]]
 
-Compreende o [[Action View]] (geração de visualização de usuário, como [[HTML]], [[XML]], [[JavaScript]], entre outros) e o [[Action Controller]] (controle de fluxo de negócio).
+Compreende o [[Action View]] (geração de visualização de usuário, como [[HTML]], [[XML]], [[JavaScript]], entre outros) e o [[Action Controller]] ([[controllers]] de fluxo de negócio).
 
 ## [[Action Mailer]]
 

@@ -1,7 +1,8 @@
 # Action WebServices
 
 ## O que é Action WebServices?
-Action WebService fornece uma maneira de publicar [[API]]s de serviço web com [[Ruby on Rails]] sem gastar muito tempo investigando detalhes do protocolo 
+
+Action WebService fornece uma maneira de publicar [[API]]s de serviço web com [[Ruby on Rails]] sem gastar muito tempo investigando detalhes do protocolo
 
 ---
 ==creation date: 2022-05-25 02:23
